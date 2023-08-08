@@ -36,3 +36,9 @@ I continue my studies and practical applications while looking for my first oppo
     ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
     ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
     ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiagoisoppo&show_icons=true&locale=en&layout=compact" alt="hiagoisoppo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiagoisoppo&show_icons=true&locale=en" alt="hiagoisoppo" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hiagoisoppo&label=Profile%20views&color=0e75b6&style=flat" alt="hiagoisoppo" /> </p>
