@@ -19,14 +19,17 @@ I continue my studies and practical applications while looking for my first oppo
   - #### Back-end
     [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=12&duration=3000&pause=1000&color=0071BD&width=435&lines=Studying+to+conquer+the+badges...)](https://git.io/typing-svg)
   - #### Test
-    ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+    ![Jest](https://img.shields.io/badge/Jest-FFF?style=for-the-badge&logo=jest&logoColor=C03B13)
     ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
   - #### Data-base
     [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=12&duration=3000&pause=1000&color=0071BD&width=435&lines=Studying+to+conquer+the+badges...)](https://git.io/typing-svg)
   - #### Tools
+    ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+    ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+    ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
     ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
     ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
     
