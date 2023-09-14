@@ -24,6 +24,7 @@ I continue my studies and practical applications while looking for my first oppo
   - #### Data-base
     [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=12&duration=3000&pause=1000&color=0071BD&width=435&lines=Studying+to+conquer+the+badges...)](https://git.io/typing-svg)
   - #### Tools
+    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
     ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
     ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
     ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
