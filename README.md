@@ -2,6 +2,13 @@
 Currently studying web development at [Trybe](https://www.betrybe.com/).
 I continue my studies and practical applications while looking for my first opportunity.
 
+## 📫 Contacts
+I'm open to new opportunities as a developer.
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiagoisoppo/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiagoisoppotrajano@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5548920003855)
+
 ## 💾 Technologies
   - #### Front-end
     ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -17,7 +24,8 @@ I continue my studies and practical applications while looking for my first oppo
     ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
     ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
   - #### Back-end
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=12&duration=3000&pause=1000&color=0071BD&width=435&lines=Studying+to+conquer+the+badges...)](https://git.io/typing-svg)
+    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+    ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
   - #### Test
     ![Jest](https://img.shields.io/badge/Jest-FFF?style=for-the-badge&logo=jest&logoColor=C03B13)
     ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
@@ -36,13 +44,6 @@ I continue my studies and practical applications while looking for my first oppo
     ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
     ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
     ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-    
-## 📫 Contacts
-I'm open to new opportunities as a developer.
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiagoisoppo/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiagoisoppotrajano@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5548920003855)
 
 ## 📊 Stats
 <p> 
