@@ -41,7 +41,7 @@ Continuo focado em meus estudos e aplicações práticas enquanto procuro minha 
     ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
     ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-## 📊 Stats
+## 📊 Status
 <p> 
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=hiagoisoppo&show_icons=true&locale=en&theme=transparent&hide=stars" alt="hiagoisoppo" />
   <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiagoisoppo&show_icons=true&locale=en&layout=compact&theme=transparent" alt="hiagoisoppo" />
