@@ -3,8 +3,6 @@ Atualmente estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/).
 Continuo focado em meus estudos e aplicações práticas enquanto procuro minha primeira oportunidade.
 
 ## 📫 Contato
-Estou aberto a novas oportunidades como desenvolvedor.
-
 [![Portifólio](https://img.shields.io/badge/Portifólio-black?style=for-the-badge&logo=logoColor=white)](https://hiagoisoppodev.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiagoisoppo/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiagoisoppotrajano@gmail.com)
