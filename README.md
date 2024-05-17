@@ -1,6 +1,6 @@
 # ✌ Olá, eu sou Hiago, seja bem vindo!
-Atualmente estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/).
-Continuo focado em meus estudos e aplicações práticas enquanto procuro minha primeira oportunidade.
+Desenvolvedor Web Full Stack curioso, criativo e apaixonado por solucionar problemas usando a programação. Atualmente me encontro explorando diversas linguagens e ferramentas do ambiente DotNet.
+Essa jornada de aprendizado, evolução e futuramente conquistas, são documentadas em meu Portfólio e Linkedin, onde compartilho meus projetos e demonstrações de minhas habilidades.
 
 ## 📫 Contato
 [![Portifólio](https://img.shields.io/badge/Portifólio-black?style=for-the-badge&logo=logoColor=white)](https://hiagoisoppodev.vercel.app/)
