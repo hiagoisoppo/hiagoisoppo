@@ -1,5 +1,5 @@
 # ✌ Olá, eu sou Hiago, seja bem vindo!
-Desenvolvedor Web Full Stack curioso, criativo e apaixonado por solucionar problemas usando a programação. Atualmente me encontro explorando diversas linguagens e ferramentas do ambiente DotNet.
+Desenvolvedor Web Full Stack curioso, criativo e apaixonado por solucionar problemas usando a programação. Atualmente me encontro explorando diversas linguagens e ferramentas dos ecossitemas JavaScript e DotNet.
 Essa jornada de aprendizado, evolução e futuramente conquistas, são documentadas em meu Portfólio e Linkedin, onde compartilho meus projetos e demonstrações de minhas habilidades.
 
 ## 📫 Contato
